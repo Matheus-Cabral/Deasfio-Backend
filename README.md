@@ -8,7 +8,7 @@ Implementação dos três desafios propostos:
 
 ## Tecnologias
 
-- .NET 8
+- .NET 9
 - C#
 - Console Application
 - System.Text.Json para leitura dos dados em JSON
@@ -17,3 +17,4 @@ Implementação dos três desafios propostos:
 
 ```bash
 dotnet run --project DesafioBackend
+
